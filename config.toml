@@ -43,19 +43,19 @@ url = "mailto:febrian@efner.id"
 [menu]
 
   [[menu.main]]
-  name = "Home"
+  name = "Beranda"
   identifier = "home"
   weight = 100
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Post"
   weight = 200
   identifier = "post"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Tentang"
   weight = 300
   identifier = "about"
   url = "/about/"

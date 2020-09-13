@@ -5,6 +5,7 @@ Description: "Dasar Dasar Pemrograman"
 Tags: ["pemrograman", "dasar"]
 Categories: ["Tutorial"]
 DisableComments: false
+weight: 1
 ---
 
 Kalian pasti sudah tidak asing lagi dengan aplikasi seperti whatsapp, instagram, facebook, google dan lain sebagainya.
