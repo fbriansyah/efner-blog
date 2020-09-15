@@ -55,7 +55,13 @@ url = "mailto:febrian@efner.id"
   url = "/post/"
 
   [[menu.main]]
-  name = "Tentang"
+  name = "Tutorial"
   weight = 300
+  identifier = "tutorial"
+  url = "/categories/tutorial/"
+
+  [[menu.main]]
+  name = "Tentang"
+  weight = 400
   identifier = "about"
   url = "/about/"
