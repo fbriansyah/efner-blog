@@ -1,4 +1,4 @@
-baseURL = "http://efner.id/"
+baseURL = "https://efner.id/"
 languageCode = "en-us"
 title = "Efner.ID"
 theme = "anatole"
